@@ -1,0 +1,74 @@
+.lien:hover {
+    background: linear-gradient(#87E990,#01D758);
+    text-decoration: none;
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    width: 95%;
+    display: block;
+}
+header,
+footer {
+    background-color: #87E990;
+    padding: 10px;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.gros {
+    font-size: 30px;
+}
+
+h1 {
+    font-family: 'Noto Serif', serif;
+}
+li {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    margin-bottom: 15px;
+
+}
+p {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+nav li {
+    font-size: 20px;
+    display: inline;
+    margin-right: 10px;
+}
+.en-tete {
+    list-style-type: none;
+}
+.poubelle-jaune {
+    width: 23%;
+    height: 23%;
+}
+.poubelle-bleue {
+    width: 25%;
+    height: 35%;
+}
+.poubelle-verre {
+    width: 30%;
+    height: 30%;
+}
+.composteur {
+    width: 25%;
+    height: 25%;
+
+}
+li {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+}
+img {
+    width: auto;
+    height: auto;
+    max-height : 600px;
+    display: block;
+}

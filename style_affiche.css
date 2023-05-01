@@ -1,0 +1,30 @@
+.lien:hover {
+    background: linear-gradient(#87E990,#01D758);
+    text-decoration: none;
+}
+header,
+footer {
+    background-color: #87E990;
+    padding: 10px;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+nav li {
+    font-size: 20px;
+    display: inline;
+    margin-right: 10px;
+}
+p {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+li {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-bottom: 15px;
+
+}
