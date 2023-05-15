@@ -23,6 +23,7 @@ nav li {
     font-size: 20px;
     display: inline;
     margin-right: 10px;
+    text-shadow: none;
 }
 p {
     font-family: 'Lora', serif;
@@ -33,6 +34,7 @@ li {
     font-family: 'Playfair Display', serif;
     font-size: 30px;
     margin-bottom: 15px;
+    text-shadow: 4px 1px 3px #CE94BC;
 
 }
 img {
