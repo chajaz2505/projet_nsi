@@ -35,6 +35,9 @@ li {
     margin-bottom: 15px;
 
 }
+.shadow {
+    text-shadow: 4px 1px 3px #CE94BC;
+}
 img {
     width: auto;
     height: auto;
